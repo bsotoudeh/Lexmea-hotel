@@ -1,0 +1,7 @@
+[submodule "backend-base-project"]
+    path = backend-base-project
+    url = git@github.com:bsotoudeh/backend-base-project.git
+
+[submodule "frontend-base-project"]
+    path = frontend-base-project
+    url = git@github.com:bsotoudeh/frontend-base-project.git
